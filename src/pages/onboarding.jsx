@@ -1,5 +1,3 @@
-// /pages/Onboarding.jsx
-
 import { useNavigate } from "react-router-dom";
 import FinancialForm from "../components/FinancialForm";
 
