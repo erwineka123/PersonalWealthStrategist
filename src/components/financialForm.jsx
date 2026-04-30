@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { analyzeFinance } from "../services/api";
-import Loader from "./Loader";
+import Loader from "./loader";
 
 export default function FinancialForm() {
   const [form, setForm] = useState({

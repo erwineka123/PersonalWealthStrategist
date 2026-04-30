@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import FinancialForm from "../components/FinancialForm";
+import FinancialForm from "../components/financialForm";
 
 export default function Onboarding() {
   const navigate = useNavigate();
